@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "This repository contains the development of a web project built from scratch, focusing on the application of fundamental and advanced web development concepts, including modern technologies used in the industry.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
